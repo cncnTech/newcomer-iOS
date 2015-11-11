@@ -1,2 +1,3 @@
-# newComer_iOS
-new iOS developer employee training repo
+# iOS 入职培训
+
+
