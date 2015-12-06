@@ -1,7 +1,7 @@
 完成一个逆波兰计算器 Demo
 ---
 
-在 github 上创建一个个人公共的 Calculator 代码仓库，完成 Assignment 1, 2 上的 required task，每个 task 完成后做至少一次 commit 提交，才进入下一个 task。（Assignment 前几个任务可参阅 [Walkthrough iOS 5](https://github.com/cncnTech/newcomer-iOS/blob/master/practice-calculator/Walkthrough%20iOS%205.pdf)）
+在 github 上创建一个个人公共的 Calculator 代码仓库，完成 [Assignment 1](https://github.com/cncnTech/newcomer-iOS/blob/master/practice-calculator/assignment1.pdf), [Assignment 2](https://github.com/cncnTech/newcomer-iOS/blob/master/practice-calculator/assignment2.pdf) 上的 required task，每个 task 完成后做至少一次 commit 提交，才进入下一个 task。（Assignment 前几个任务可参阅 [Walkthrough iOS 5](https://github.com/cncnTech/newcomer-iOS/blob/master/practice-calculator/Walkthrough%20iOS%205.pdf)）
 
 如有能力，尽量完成 Extra Credit 内容。
 
