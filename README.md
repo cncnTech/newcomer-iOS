@@ -11,6 +11,9 @@
 - [团队 iOS 工程开发实践](https://github.com/cncnTech/iOS-Development-Guideline/blob/master/ios-project-practices.md)
 - [Xcode 帮助文档阅读指南](http://ourcoders.com/thread/show/117/)
 
+### 编码审查
+- [Code Review Guide](https://github.com/cncnTech/clean-code-guide/blob/master/code-review.md)
+
 ### 练习
 - [计算器 Demo](https://github.com/cncnTech/newcomer-iOS/blob/master/practice-calculator/calculator-demo-readme.md)
 
